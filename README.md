@@ -20,10 +20,10 @@ Sou um desenvolvedor de software apaixonado por programação e tecnologia, semp
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"> 
-  <img align="center" alt="Machine Learning" height="30" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img align="center" alt="Machine Learning" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">          
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div><br>
-z
+
 ## Estatísticas do GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderaraujo&langs_count=3&layout=compact)
@@ -43,7 +43,7 @@ z
 			<th colspan="2" width="2000">&nbsp;</th>
 		</tr>
 	</thead>
-	<tbody>
+<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/felipeAguiarCode/angular-playground">
@@ -60,9 +60,9 @@ z
 		</tr>
      <tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular/tree/main/BLOG/angular-blog">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-      </a>
+			<a href="https://github.com/alexsanderthorne/K-means">
+     			 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+     			 </a>
       </td>
 			<td valign="top">
 			<h3>Kmeans Project</h3>
@@ -71,9 +71,9 @@ z
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-blog">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-      </a>
+			<a href="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular/tree/main/BLOG/angular-blog">
+      			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
+      			</a>
       </td>
 			<td valign="top">
 			<h3>Angular Blog</h3>
@@ -81,7 +81,7 @@ z
 			</td>
 		</tr>
 
-	</tbody>
+</tbody>
 </table>
 
 ## 📊 &nbsp;Stats
