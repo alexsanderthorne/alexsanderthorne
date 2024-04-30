@@ -46,7 +46,7 @@ Sou um desenvolvedor de software apaixonado por programação e tecnologia, semp
 <tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
+			<a href="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
       </a>
       </td>
