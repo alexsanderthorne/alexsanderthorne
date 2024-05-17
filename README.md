@@ -71,7 +71,7 @@ Sou um desenvolvedor de software apaixonado por programação e tecnologia, semp
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular/tree/main/BLOG/angular-blog">
+			<a href="https://github.com/alexsanderthorne/angular-blog">
       			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
       			</a>
       </td>
