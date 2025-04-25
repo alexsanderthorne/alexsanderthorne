@@ -35,54 +35,81 @@ Sou um desenvolvedor de software apaixonado por programação e tecnologia, semp
   <a href = "mailto:alexsanderthorne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alexsanderaraujo4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/alexsander4485" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=87981554940" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a></div>
+  <a href="https://api.whatsapp.com/send?phone=87981554940" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
-  <table>
+<table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
+			<th colspan="2" width="2000">&nbsp;<h2>Meus projetos</h2></th>
 		</tr>
 	</thead>
 <tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
+	<tr>
+		<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-      </a>
-      </td>
-			<td valign="top">
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+			</a>
+		</td>
+		<td valign="top">
 			<h3>Desenvolvimento Front End Com Angular</h3>
 			<p>Exemplos práticos das principais competências de Angular.</p>
 			<a href="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular">
- 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+				<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
-			</td>
-		</tr>
-     <tr>
-			<td align="center" valign="top" width="80"><br />
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/alexsanderthorne/K-means">
-     			 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-     			 </a>
-      </td>
-			<td valign="top">
+				 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+			 </a>
+		</td>
+		<td valign="top">
 			<h3>Kmeans Project</h3>
 			<p>Data Analisys Project</p>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/alexsanderthorne/angular-blog">
-      			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
-      			</a>
-      </td>
-			<td valign="top">
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
+			</a>
+		</td>
+		<td valign="top">
 			<h3>Angular Blog</h3>
 			<p>An Simple blog with Angular, good pratices for folder structure.</p>
-			</td>
-		</tr>
-
+		</td>
+	</tr>
+	
 </tbody>
+	
 </table>
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000">&nbsp;<h2>Minhas api's</h2></th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+		<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexsanderthorne/angular-blog">
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
+			</a>
+		</td>
+		<td valign="top">
+			<h3>Flask api</h3>
+			<p>An Simple blog with python, good pratices for folder structure.</p>
+		</td>
+	</tr>
+	
+</tbody>
+	
+ 
+</table>
+
 
 ## 📊 &nbsp;Stats
 
