@@ -95,16 +95,48 @@ Sou um desenvolvedor de software apaixonado por programação e tecnologia, semp
 <tbody>
 	<tr>
 		<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/alexsanderthorne/angular-blog">
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
+			<a href="https://github.com/alexsanderthorne/Event-Checkin-Python.git">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  />
+			</a>
+		</td>
+		<td valign="top">
+			<h3>Api Python e Flask</h3>
+			<p>Organize e gerencie seus eventos de forma eficiente e prática com o Event-Checkin-Python!</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexsanderthorne/desafioTecnicoCapyba.git">
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 			</a>
 		</td>
 		<td valign="top">
 			<h3>Flask api</h3>
-			<p>An Simple blog with python, good pratices for folder structure.</p>
+			<p>API RESTful desenvolvida em Flask para o desafio técnico da Capyba. Gerencia pessoas, autenticação, confirmação de e-mail e muito mais.</p>
 		</td>
 	</tr>
-	
+	 <tr>
+		<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexsanderthorne/nwl-journey-python.git">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  />
+			</a>
+		</td>
+		<td valign="top">
+			<h3>Api nwl-journey-python</h3>
+			<p>Evento nwl-journey-python onde desenvolvi um planejador de viagem</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexsanderthorne/challengeFuria.git">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  />
+			</a>
+		</td>
+		<td valign="top">
+			<h3>Experiência Conversacional com python e javascript</h3>
+			<p>Simulador de conversa com integração com OpenApi, sqlite e Landing page funcional</p>
+		</td>
+	</tr>
 </tbody>
 	
  
